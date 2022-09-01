@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My News</string>
+    <string name="title_news">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_save">Save</string>
+</resources>
