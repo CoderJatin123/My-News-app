@@ -3,5 +3,10 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/asul</item>
         <item>@font/bebas_neue</item>
+        <item>@font/donegal_one</item>
+        <item>@font/inter</item>
+        <item>@font/inter_medium</item>
+        <item>@font/inter_semibold</item>
+        <item>@font/inter_thin</item>
     </array>
 </resources>
