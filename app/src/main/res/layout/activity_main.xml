@@ -17,7 +17,8 @@
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             android:touchscreenBlocksFocus="false"
-            app:menu="@menu/bottom_nav_menu" android:backgroundTintMode="add"/>
+            app:menu="@menu/bottom_nav_menu" android:backgroundTintMode="add"
+            app:itemIconTint="@color/teal_200" app:itemTextColor="@color/teal_200"/>
 
     <fragment
             android:name="androidx.navigation.fragment.NavHostFragment"

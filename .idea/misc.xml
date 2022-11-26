@@ -3,17 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyNews/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17083333333333334" />
         <entry key="..\:/MyNews/app/src/main/res/drawable/buttom_navbar.xml" value="0.16927083333333334" />
         <entry key="..\:/MyNews/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.171875" />
+        <entry key="..\:/MyNews/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.171875" />
         <entry key="..\:/MyNews/app/src/main/res/drawable/ic_icons8_setting_48_2.xml" value="0.171875" />
+        <entry key="..\:/MyNews/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15208333333333332" />
+        <entry key="..\:/MyNews/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.171875" />
+        <entry key="..\:/MyNews/app/src/main/res/drawable/ic_news-d.xml" value="0.171875" />
         <entry key="..\:/MyNews/app/src/main/res/drawable/ic_news.xml" value="0.16927083333333334" />
+        <entry key="..\:/MyNews/app/src/main/res/drawable/ic_news1.xml" value="0.17083333333333334" />
         <entry key="..\:/MyNews/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.17083333333333334" />
-        <entry key="..\:/MyNews/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/MyNews/app/src/main/res/drawable/ic_save_black.xml" value="0.171875" />
+        <entry key="..\:/MyNews/app/src/main/res/layout/activity_main.xml" value="0.40756302521008403" />
         <entry key="..\:/MyNews/app/src/main/res/layout/activity_news_detail.xml" value="0.5" />
         <entry key="..\:/MyNews/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
-        <entry key="..\:/MyNews/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/MyNews/app/src/main/res/layout/fragment_home.xml" value="0.16" />
         <entry key="..\:/MyNews/app/src/main/res/layout/row_item_home.xml" value="0.1" />
-        <entry key="..\:/MyNews/app/src/main/res/layout/row_item_news.xml" value="0.3977272727272727" />
+        <entry key="..\:/MyNews/app/src/main/res/layout/row_item_news.xml" value="0.33" />
         <entry key="..\:/MyNews/app/src/main/res/layout/save_fragment.xml" value="0.10092592592592593" />
         <entry key="..\:/MyNews/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>

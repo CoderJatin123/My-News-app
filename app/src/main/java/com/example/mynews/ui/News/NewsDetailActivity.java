@@ -26,9 +26,7 @@ public class NewsDetailActivity extends AppCompatActivity {
         time_view=findViewById(R.id.d_time);
         auth_view=findViewById(R.id.d_auth);
         desc_view=findViewById(R.id.d_desc);
-        Date ts = null;
-
-        Intent intent=getIntent();
+        Date ts = null;        Intent intent=getIntent();
 
         String title=intent.getStringExtra("title");
         String desc=intent.getStringExtra("desc");
@@ -47,6 +45,8 @@ public class NewsDetailActivity extends AppCompatActivity {
         time_view.setText(String.valueOf(ts));
         desc=desc.replaceAll("\\s+$","");
         desc_view.setText(desc);
+
+
         auth_view.setText(auth);
 
 
